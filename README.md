@@ -6,3 +6,4 @@ npm run start-js (development)
 npm run build-js (production)
 ```
 
+test with vitest and esbuild
